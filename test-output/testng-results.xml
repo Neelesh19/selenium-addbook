@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testng" duration-ms="43266" started-at="2019-10-09T19:33:00Z" finished-at="2019-10-09T19:33:43Z">
+    <groups>
+    </groups>
+    <test name="NewTests" duration-ms="43266" started-at="2019-10-09T19:33:00Z" finished-at="2019-10-09T19:33:43Z">
+      <class name="TestNG.addbook">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addbook@56f4468b]" name="launch" is-config="true" duration-ms="37420" started-at="2019-10-10T01:03:00Z" finished-at="2019-10-10T01:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addbook@56f4468b]" name="verifyaddbook" duration-ms="5811" started-at="2019-10-10T01:03:38Z" finished-at="2019-10-10T01:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddbook -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addbook@56f4468b]" name="close" is-config="true" duration-ms="10" started-at="2019-10-10T01:03:43Z" finished-at="2019-10-10T01:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.addbook -->
+    </test> <!-- NewTests -->
+  </suite> <!-- Testng -->
+</testng-results>
